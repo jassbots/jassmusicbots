@@ -5,7 +5,7 @@ from pyrogram.types import Message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 from config import *
 from ANNIEMUSIC import app
-from ANNIEMUSIC.core.call import DAXX
+from ANNIEMUSIC.core.call import JARVIS
 from ANNIEMUSIC.utils import bot_sys_stats
 from ANNIEMUSIC.utils.decorators.language import language
 from ANNIEMUSIC.utils.inline import supp_markup
