@@ -29,17 +29,17 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://jarvisxd45:rajnish68mishra85@atlascluster.xkizs7c.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://MRDAXX:MRDAXX@mrdaxx.prky3aj.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6180225412",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @Strings_Gen_Robot on Telegram.",
-        "value": "",
+        "value": "BQG_NJ0AGiRmaOY0RzaOegfvVfJ-9xywiapOECNey7_lg5blE4dfJpdk8vqE_Lp1rKoKb4Pp03EMFxHL8XkZLmTh9tZ0FbpUd1wYJ6M2lVOekFqSs8S4dWj6vV65DLgWJjllQ2Qx9SSscpG1qNRjmub-lnd6ZsbEoyo6F80GtcCdEgcrNJyEFP3MDI2fV_8I8xJM2vWRpZ8ad8zUfZYc1bstP4ntylpXmDZPFo_UCJe9krOYUnJymPetdcjFMNRmnxWY_vQm8kkQyBkAhV7rMCAvgzq4Rr6XygO0DQJeF5APOArUDMHB2MmVGtGlUV0Npcw_zcbe9-2DtkVlblZhakHwxHJzYAAAAAGJjQp_AA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -54,12 +54,12 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-",
+        "value": "-1002139661881",
         "required": true
       },
       "GPT_API": {
         "description": "Your GPT API Key open ai.",
-        "value": "",
+        "value": "pass",
         "required": true
       }
     },
